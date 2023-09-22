@@ -99,4 +99,7 @@ def get_won_tournaments(url: str):
     
     soup = BeautifulSoup(newUrl, "lxml")
     
+    table = soup.find("tbody")
     
+    for tournament in table:
+        
