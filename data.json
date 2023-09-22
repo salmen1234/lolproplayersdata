@@ -1,0 +1,706 @@
+[
+    {
+        "players": [
+            {
+                "team": "T1",
+                "name": "Lee Sang-hyeok",
+                "username": "Faker",
+                "nation": "South Korea",
+                "age": "27",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$1,457,044"
+            },
+            {
+                "team": "Dplus",
+                "name": "Kim Dong-ha",
+                "username": "Khan",
+                "nation": "South Korea",
+                "age": "27",
+                "status": "Retired",
+                "role": "Streamer",
+                "careerEarnings": "$389,348"
+            },
+            {
+                "team": "Gen.G Esports",
+                "name": "Han Wang-ho",
+                "username": "Peanut",
+                "nation": "South Korea",
+                "age": "25",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$615,645"
+            },
+            {
+                "team": "T1",
+                "name": "Bae Jun-sik",
+                "username": "Bang",
+                "nation": "South Korea",
+                "age": "27",
+                "status": "Retired",
+                "role": "Bot",
+                "careerEarnings": "$897,783"
+            },
+            {
+                "team": "KT Rolster",
+                "name": "Gwak Bo-seong",
+                "username": "Bdd",
+                "nation": "South Korea",
+                "age": "24",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$237,708"
+            },
+            {
+                "team": null,
+                "name": "Lee Da-yoon",
+                "username": "Spirit",
+                "nation": "South Korea",
+                "age": "27",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$137,523"
+            },
+            {
+                "team": "Gen.G Esports",
+                "name": "Kang Chan-yong",
+                "username": "Ambition",
+                "nation": "South Korea",
+                "age": "30",
+                "status": "Retired",
+                "role": "Streamer",
+                "careerEarnings": "$499,289"
+            },
+            {
+                "team": "Dplus",
+                "name": "Kim Hyuk-kyu",
+                "username": "Deft",
+                "nation": "South Korea",
+                "age": "26",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$440,223"
+            },
+            {
+                "team": null,
+                "name": "Song Kyung-ho",
+                "username": "Smeb",
+                "nation": "South Korea",
+                "age": "28",
+                "status": "Retired",
+                "role": "Top",
+                "careerEarnings": "$294,767"
+            },
+            {
+                "team": null,
+                "name": "Cho Se-hyeong",
+                "username": "Mata",
+                "nation": "South Korea",
+                "age": "29",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$521,110"
+            },
+            {
+                "team": "ThunderTalk Gaming",
+                "name": "Son Woo-hyeon",
+                "username": "Ucal",
+                "nation": "South Korea",
+                "age": "22",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$83,018"
+            },
+            {
+                "team": "Gen.G Esports",
+                "name": "Go Dong-bin",
+                "username": "Score",
+                "nation": "South Korea",
+                "age": "31",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$177,584"
+            },
+            {
+                "team": null,
+                "name": "Kim Jong-in",
+                "username": "PraY",
+                "nation": "South Korea",
+                "age": "29",
+                "status": "Retired",
+                "role": "Streamer",
+                "careerEarnings": "$363,363"
+            },
+            {
+                "team": "Dplus",
+                "name": "Kang Beom-hyeon",
+                "username": "GorillA",
+                "nation": "South Korea",
+                "age": "28",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$319,484"
+            },
+            {
+                "team": "Dplus",
+                "name": "Kim Hyuk-kyu",
+                "username": "Deft",
+                "nation": "South Korea",
+                "age": "26",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$440,223"
+            },
+            {
+                "team": "FlyQuest",
+                "name": "Jeong Eon-young",
+                "username": "Impact",
+                "nation": "South Korea",
+                "age": "28",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$584,963"
+            },
+            {
+                "team": null,
+                "name": "Heo Seung-hoon",
+                "username": "Huni",
+                "nation": "South Korea",
+                "age": "25",
+                "status": "Retired",
+                "role": "Coach",
+                "careerEarnings": "$345,716"
+            },
+            {
+                "team": "GAM Esports",
+                "name": "Đỗ Duy Khánh",
+                "username": "Levi",
+                "nation": "Vietnam",
+                "age": "25",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$88,414"
+            },
+            {
+                "team": "Mirage Alliance",
+                "name": "Joshua Hartnett",
+                "username": "Dardoch",
+                "nation": "United States",
+                "age": "25",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$23,985"
+            },
+            {
+                "team": "Cloud9",
+                "name": "Jesper Svenningsen",
+                "username": "Zven",
+                "nation": "Denmark",
+                "age": "26",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$383,573"
+            },
+            {
+                "team": "SK Gaming Prime",
+                "name": "Fabian Diepstraten",
+                "username": "FEBIVEN",
+                "nation": "Netherlands",
+                "age": "26",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$100,180"
+            },
+            {
+                "team": "Dignitas",
+                "name": "Nicolaj Jensen",
+                "username": "Jensen",
+                "nation": "Denmark",
+                "age": "28",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$365,119"
+            },
+            {
+                "team": null,
+                "name": "Søren Bjerg",
+                "username": "Bjergsen",
+                "nation": "Denmark",
+                "age": "27",
+                "status": "Retired",
+                "role": "Mid",
+                "careerEarnings": "$263,337"
+            },
+            {
+                "team": null,
+                "name": "Zaqueri Black",
+                "username": "aphromoo",
+                "nation": "United States",
+                "age": "31",
+                "status": "Retired",
+                "role": "Support",
+                "careerEarnings": "$128,007"
+            },
+            {
+                "team": "Immortals",
+                "name": "Edward Ra",
+                "username": "Tactical",
+                "nation": "United States",
+                "age": "23",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$70,837"
+            },
+            {
+                "team": null,
+                "name": "Andy Ta",
+                "username": "Smoothie",
+                "nation": "Canada",
+                "age": "26",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$110,674"
+            },
+            {
+                "team": "Cloud9",
+                "name": "Robert Huang",
+                "username": "Blaber",
+                "nation": "United States",
+                "age": "23",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$231,268"
+            },
+            {
+                "team": "NRG",
+                "name": "Cristian Palafox",
+                "username": "Palafox",
+                "nation": "United States",
+                "age": "24",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$25,275"
+            },
+            {
+                "team": null,
+                "name": "Eugene Park",
+                "username": "Pobelter",
+                "nation": "United States",
+                "age": "26",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$132,657"
+            },
+            {
+                "team": null,
+                "name": "Aaron Lee",
+                "username": "FakeGod",
+                "nation": "United States",
+                "age": "23",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$12,667"
+            },
+            {
+                "team": "G2 Esports",
+                "name": "Rasmus Borregaard Winther",
+                "username": "Caps",
+                "nation": "Denmark",
+                "age": "23",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$589,319"
+            },
+            {
+                "team": "Fnatic",
+                "name": "Carl Martin Erik Larsson",
+                "username": "Rekkles",
+                "nation": "Sweden",
+                "age": "26",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$439,417"
+            },
+            {
+                "team": "Team Vitality",
+                "name": "Luka Perković",
+                "username": "Perkz",
+                "nation": "Croatia",
+                "age": "24",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$571,586"
+            },
+            {
+                "team": "MAD Lions",
+                "name": "Zdravets Iliev Galabov",
+                "username": "Hylissang",
+                "nation": "Bulgaria",
+                "age": "28",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$386,222"
+            },
+            {
+                "team": "Excel Esports",
+                "name": "Andrei Pascu",
+                "username": "Odoamne",
+                "nation": "Romania",
+                "age": "28",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$219,809"
+            },
+            {
+                "team": null,
+                "name": "Barney Morris",
+                "username": "Alphari",
+                "nation": "United Kingdom",
+                "age": "23",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$132,718"
+            },
+            {
+                "team": "Team Vitality",
+                "name": "Elias Lipp",
+                "username": "Upset",
+                "nation": "Germany",
+                "age": "23",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$66,336"
+            },
+            {
+                "team": "Fnatic",
+                "name": "Marek Brázda",
+                "username": "Humanoid",
+                "nation": "Czechia",
+                "age": "23",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$173,268"
+            },
+            {
+                "team": "Team Heretics",
+                "name": "Marcin Jankowski",
+                "username": "Jankos",
+                "nation": "Poland",
+                "age": "28",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$504,026"
+            },
+            {
+                "team": null,
+                "name": "Martin Nordahl Hansen",
+                "username": "Wunder",
+                "nation": "Denmark",
+                "age": "24",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$417,461"
+            },
+            {
+                "team": "G2 Esports",
+                "name": "Steven Liv",
+                "username": "Hans Sama",
+                "nation": "France",
+                "age": "24",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$175,865"
+            },
+            {
+                "team": "100 Thieves",
+                "name": "Erlend Våtevik Holm",
+                "username": "Nukeduck",
+                "nation": "Norway",
+                "age": "27",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$49,586"
+            },
+            {
+                "team": "Ultra Prime",
+                "name": "Hu Shuo-chieh",
+                "username": "SwordArT",
+                "nation": "Taiwan",
+                "age": "26",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$331,110"
+            },
+            {
+                "team": null,
+                "name": "Wong Xing Lei",
+                "username": "Chawy",
+                "nation": "Singapore",
+                "age": "31",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$42,433"
+            },
+            {
+                "team": null,
+                "name": "Liu Shu-wei",
+                "username": "Westdoor",
+                "nation": "Taiwan",
+                "age": "29",
+                "status": "Retired",
+                "role": "Jungle",
+                "careerEarnings": "$71,031"
+            },
+            {
+                "team": "PSG Talon",
+                "name": "Chen Yi",
+                "username": "Ziv",
+                "nation": "Taiwan",
+                "age": "28",
+                "status": "Retired",
+                "role": "Top",
+                "careerEarnings": "$75,053"
+            },
+            {
+                "team": "PSG Talon",
+                "name": "Huang Yi-tang",
+                "username": "Maple",
+                "nation": "Taiwan",
+                "age": "25",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$257,812"
+            },
+            {
+                "team": null,
+                "name": "Chen Kuan-ting",
+                "username": "Morning",
+                "nation": "Taiwan",
+                "age": "27",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$28,481"
+            },
+            {
+                "team": "Saigon Buffalo",
+                "name": "Nguyễn Ngọc Hùng",
+                "username": "Slay",
+                "nation": "Vietnam",
+                "age": "26",
+                "status": "Active",
+                "role": "Support",
+                "careerEarnings": "$47,252"
+            },
+            {
+                "team": null,
+                "name": "Mustafa Kemal Gökseloğlu",
+                "username": "Dumbledoge",
+                "nation": "Turkey",
+                "age": "29",
+                "status": "Retired",
+                "role": "Support",
+                "careerEarnings": "$8,450"
+            },
+            {
+                "team": "SuperMassive",
+                "name": "Berkay Aşıkuzun",
+                "username": "Zeitnot",
+                "nation": "Turkey",
+                "age": "28",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$34,160"
+            },
+            {
+                "team": null,
+                "name": "Mykhailo Harmash",
+                "username": "Kira",
+                "nation": "Ukraine",
+                "age": "30",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$99,488"
+            },
+            {
+                "team": null,
+                "name": "Danil Reshetnikov",
+                "username": "Diamondprox",
+                "nation": "Russia",
+                "age": "30",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$142,053"
+            },
+            {
+                "team": "RA'AD",
+                "name": "Edward Abgaryan",
+                "username": "Edward",
+                "nation": "Armenia",
+                "age": "29",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$131,405"
+            },
+            {
+                "team": "RED Canids",
+                "name": "Alexandre Lima",
+                "username": "TitaN",
+                "nation": "Brazil",
+                "age": "23",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$38,293"
+            },
+            {
+                "team": "Fluxo",
+                "name": "Felipe Gonçalves",
+                "username": "brTT",
+                "nation": "Brazil",
+                "age": "32",
+                "status": "Retired",
+                "role": "Bot",
+                "careerEarnings": "$52,242"
+            },
+            {
+                "team": "INTZ",
+                "name": "Gabriel Henud Cresci",
+                "username": "Revolta",
+                "nation": "Brazil",
+                "age": "27",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$32,465"
+            },
+            {
+                "team": null,
+                "name": "Matías Musso",
+                "username": "Whitelotus",
+                "nation": "Argentina",
+                "age": "27",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$35,655"
+            },
+            {
+                "team": "Eclipse Gaming",
+                "name": "Sebastián Andrés Mateluna Cibrario",
+                "username": "Tierwulf",
+                "nation": "Chile",
+                "age": "26",
+                "status": "Active",
+                "role": "Jungle",
+                "careerEarnings": "$35,735"
+            },
+            {
+                "team": "Six Karma",
+                "name": "Édgar Ali Bracamontes Munguía",
+                "username": "Seiya",
+                "nation": "Mexico",
+                "age": "27",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$49,227"
+            },
+            {
+                "team": "EDward Gaming",
+                "name": "Jian Zihao",
+                "username": "Uzi",
+                "nation": "China",
+                "age": "26",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$500,676"
+            },
+            {
+                "team": "Weibo Gaming",
+                "name": "Li Yuanhao",
+                "username": "Xiaohu",
+                "nation": "China",
+                "age": "25",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$668,410"
+            },
+            {
+                "team": "Top Esports",
+                "name": "Yu Wenbo",
+                "username": "JackeyLove",
+                "nation": "China",
+                "age": "22",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$759,189"
+            },
+            {
+                "team": "Weibo Gaming",
+                "name": "Kang Seung-lok",
+                "username": "TheShy",
+                "nation": "South Korea",
+                "age": "23",
+                "status": "Active",
+                "role": "Top",
+                "careerEarnings": "$564,916"
+            },
+            {
+                "team": "Top Esports",
+                "name": "Song Eui-jin",
+                "username": "Rookie",
+                "nation": "South Korea",
+                "age": "26",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$619,860"
+            },
+            {
+                "team": null,
+                "name": "Jin Seong-jun",
+                "username": "Mystic",
+                "nation": "South Korea",
+                "age": "28",
+                "status": "Active",
+                "role": "Streamer",
+                "careerEarnings": "$164,049"
+            },
+            {
+                "team": null,
+                "name": "Liu Shiyu",
+                "username": "Mlxg",
+                "nation": "China",
+                "age": "27",
+                "status": "Retired",
+                "role": "Jungle",
+                "careerEarnings": "$395,964"
+            },
+            {
+                "team": "EDward Gaming",
+                "name": "Ming Kai",
+                "username": "Clearlove",
+                "nation": "China",
+                "age": "30",
+                "status": "Active",
+                "role": "Coach",
+                "careerEarnings": "$375,940"
+            },
+            {
+                "team": "Cloud9",
+                "name": "Ibrahim Allami",
+                "username": "Fudge",
+                "nation": "Australia",
+                "age": "21",
+                "status": "Active",
+                "role": "Mid",
+                "careerEarnings": "$113,048"
+            },
+            {
+                "team": "NRG",
+                "name": "Victor Huang",
+                "username": "FBI",
+                "nation": "Australia",
+                "age": "24",
+                "status": "Active",
+                "role": "Bot",
+                "careerEarnings": "$94,260"
+            }
+        ]
+    }
+]
