@@ -31,7 +31,7 @@ def get_player_urls(console: bool = True):
     print("Urls fetched successfully")
     return urls
 
-def get_player_informations(url: str, console: bool = True):
+def get_player_informations(url: str, playerNumber: int, console: bool = True, number: int = 0):
     res = requests.get(url=url)
     soup = BeautifulSoup(res.text, "lxml")
     infocells = soup.findAll("div", {"class": "infobox-cell-2 infobox-description"})
@@ -86,20 +86,36 @@ def get_player_informations(url: str, console: bool = True):
                 
             informations["careerEarnings"] = earns_text
             
+        informations["wonTournaments"] = get_won_tournaments(url)
         informations["username"] = username
 
-
     if console == True:
-        print(f">> Fetching {username} informations..")
+        print(f">> Fetching {username} informations.. ({number}/{playerNumber})")
 
     return informations
 
 def get_won_tournaments(url: str):
     newUrl = url+"/Results"
-    
-    soup = BeautifulSoup(newUrl, "lxml")
+
+    res = requests.get(newUrl)
+
+    soup = BeautifulSoup(res.text, "lxml")
     
     table = soup.find("tbody")
-    
-    for tournament in table:
-        
+
+    if table == None:
+        return
+
+    wins = {}
+    tournamentName = None
+
+    for tr in soup.find_all("tr"):
+        placement_td = tr.find("td", class_="placement-1")
+        if placement_td and "1st" in placement_td.text:
+            tournament_name = placement_td.find_next("td").find("a").text
+            if tournament_name in wins:
+                wins[tournament_name] += 1
+            else:
+                wins[tournament_name] = 1
+                
+    return wins

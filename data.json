@@ -4,6 +4,12 @@
             {
                 "team": "T1",
                 "name": "Lee Sang-hyeok",
+                "wonTournaments": {
+                    "S-Tier": 16,
+                    "A-Tier": 2,
+                    "Qualifier": 2,
+                    "Misc": 1
+                },
                 "username": "Faker",
                 "nation": "South Korea",
                 "age": "27",
@@ -14,6 +20,10 @@
             {
                 "team": "Dplus",
                 "name": "Kim Dong-ha",
+                "wonTournaments": {
+                    "S-Tier": 6,
+                    "A-Tier": 1
+                },
                 "username": "Khan",
                 "nation": "South Korea",
                 "age": "27",
@@ -24,6 +34,11 @@
             {
                 "team": "Gen.G Esports",
                 "name": "Han Wang-ho",
+                "wonTournaments": {
+                    "S-Tier": 7,
+                    "Qualifier": 1,
+                    "A-Tier": 1
+                },
                 "username": "Peanut",
                 "nation": "South Korea",
                 "age": "25",
@@ -34,6 +49,9 @@
             {
                 "team": "T1",
                 "name": "Bae Jun-sik",
+                "wonTournaments": {
+                    "S-Tier": 9
+                },
                 "username": "Bang",
                 "nation": "South Korea",
                 "age": "27",
@@ -44,6 +62,11 @@
             {
                 "team": "KT Rolster",
                 "name": "Gwak Bo-seong",
+                "wonTournaments": {
+                    "A-Tier": 2,
+                    "Qualifier": 1,
+                    "S-Tier": 2
+                },
                 "username": "Bdd",
                 "nation": "South Korea",
                 "age": "24",
@@ -54,6 +77,11 @@
             {
                 "team": null,
                 "name": "Lee Da-yoon",
+                "wonTournaments": {
+                    "A-Tier": 1,
+                    "Qualifier": 1,
+                    "S-Tier": 1
+                },
                 "username": "Spirit",
                 "nation": "South Korea",
                 "age": "27",
@@ -64,6 +92,11 @@
             {
                 "team": "Gen.G Esports",
                 "name": "Kang Chan-yong",
+                "wonTournaments": {
+                    "A-Tier": 5,
+                    "S-Tier": 2,
+                    "B-Tier": 2
+                },
                 "username": "Ambition",
                 "nation": "South Korea",
                 "age": "30",
@@ -74,6 +107,10 @@
             {
                 "team": "Dplus",
                 "name": "Kim Hyuk-kyu",
+                "wonTournaments": {
+                    "S-Tier": 6,
+                    "A-Tier": 2
+                },
                 "username": "Deft",
                 "nation": "South Korea",
                 "age": "26",
@@ -84,6 +121,11 @@
             {
                 "team": null,
                 "name": "Song Kyung-ho",
+                "wonTournaments": {
+                    "Qualifier": 1,
+                    "S-Tier": 2,
+                    "A-Tier": 2
+                },
                 "username": "Smeb",
                 "nation": "South Korea",
                 "age": "28",
@@ -94,6 +136,10 @@
             {
                 "team": null,
                 "name": "Cho Se-hyeong",
+                "wonTournaments": {
+                    "S-Tier": 6,
+                    "A-Tier": 2
+                },
                 "username": "Mata",
                 "nation": "South Korea",
                 "age": "29",
@@ -104,6 +150,9 @@
             {
                 "team": "ThunderTalk Gaming",
                 "name": "Son Woo-hyeon",
+                "wonTournaments": {
+                    "S-Tier": 1
+                },
                 "username": "Ucal",
                 "nation": "South Korea",
                 "age": "22",
@@ -114,6 +163,12 @@
             {
                 "team": "Gen.G Esports",
                 "name": "Go Dong-bin",
+                "wonTournaments": {
+                    "Qualifier": 2,
+                    "S-Tier": 2,
+                    "A-Tier": 2,
+                    "B-Tier": 1
+                },
                 "username": "Score",
                 "nation": "South Korea",
                 "age": "31",
@@ -124,6 +179,11 @@
             {
                 "team": null,
                 "name": "Kim Jong-in",
+                "wonTournaments": {
+                    "S-Tier": 4,
+                    "A-Tier": 1,
+                    "Qualifier": 1
+                },
                 "username": "PraY",
                 "nation": "South Korea",
                 "age": "29",
@@ -134,6 +194,10 @@
             {
                 "team": "Dplus",
                 "name": "Kang Beom-hyeon",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "A-Tier": 1
+                },
                 "username": "GorillA",
                 "nation": "South Korea",
                 "age": "28",
@@ -144,6 +208,10 @@
             {
                 "team": "Dplus",
                 "name": "Kim Hyuk-kyu",
+                "wonTournaments": {
+                    "S-Tier": 6,
+                    "A-Tier": 2
+                },
                 "username": "Deft",
                 "nation": "South Korea",
                 "age": "26",
@@ -154,6 +222,12 @@
             {
                 "team": "FlyQuest",
                 "name": "Jeong Eon-young",
+                "wonTournaments": {
+                    "S-Tier": 9,
+                    "A-Tier": 3,
+                    "Misc": 1,
+                    "Qualifier": 1
+                },
                 "username": "Impact",
                 "nation": "South Korea",
                 "age": "28",
@@ -164,6 +238,10 @@
             {
                 "team": null,
                 "name": "Heo Seung-hoon",
+                "wonTournaments": {
+                    "A-Tier": 1,
+                    "S-Tier": 4
+                },
                 "username": "Huni",
                 "nation": "South Korea",
                 "age": "25",
@@ -174,6 +252,11 @@
             {
                 "team": "GAM Esports",
                 "name": "Đỗ Duy Khánh",
+                "wonTournaments": {
+                    "A-Tier": 8,
+                    "Misc": 4,
+                    "B-Tier": 2
+                },
                 "username": "Levi",
                 "nation": "Vietnam",
                 "age": "25",
@@ -184,6 +267,11 @@
             {
                 "team": "Mirage Alliance",
                 "name": "Joshua Hartnett",
+                "wonTournaments": {
+                    "C-Tier": 2,
+                    "B-Tier": 2,
+                    "Qualifier": 3
+                },
                 "username": "Dardoch",
                 "nation": "United States",
                 "age": "25",
@@ -194,6 +282,11 @@
             {
                 "team": "Cloud9",
                 "name": "Jesper Svenningsen",
+                "wonTournaments": {
+                    "S-Tier": 7,
+                    "Misc": 1,
+                    "A-Tier": 3
+                },
                 "username": "Zven",
                 "nation": "Denmark",
                 "age": "26",
@@ -204,6 +297,12 @@
             {
                 "team": "SK Gaming Prime",
                 "name": "Fabian Diepstraten",
+                "wonTournaments": {
+                    "B-Tier": 3,
+                    "Qualifier": 2,
+                    "S-Tier": 2,
+                    "A-Tier": 3
+                },
                 "username": "FEBIVEN",
                 "nation": "Netherlands",
                 "age": "26",
@@ -214,6 +313,10 @@
             {
                 "team": "Dignitas",
                 "name": "Nicolaj Jensen",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "A-Tier": 6
+                },
                 "username": "Jensen",
                 "nation": "Denmark",
                 "age": "28",
@@ -224,6 +327,12 @@
             {
                 "team": null,
                 "name": "Søren Bjerg",
+                "wonTournaments": {
+                    "A-Tier": 2,
+                    "S-Tier": 6,
+                    "Misc": 1,
+                    "Qualifier": 1
+                },
                 "username": "Bjergsen",
                 "nation": "Denmark",
                 "age": "27",
@@ -234,6 +343,9 @@
             {
                 "team": null,
                 "name": "Zaqueri Black",
+                "wonTournaments": {
+                    "S-Tier": 2
+                },
                 "username": "aphromoo",
                 "nation": "United States",
                 "age": "31",
@@ -244,6 +356,10 @@
             {
                 "team": "Immortals",
                 "name": "Edward Ra",
+                "wonTournaments": {
+                    "A-Tier": 2,
+                    "C-Tier": 1
+                },
                 "username": "Tactical",
                 "nation": "United States",
                 "age": "23",
@@ -254,6 +370,9 @@
             {
                 "team": null,
                 "name": "Andy Ta",
+                "wonTournaments": {
+                    "A-Tier": 3
+                },
                 "username": "Smoothie",
                 "nation": "Canada",
                 "age": "26",
@@ -264,6 +383,11 @@
             {
                 "team": "Cloud9",
                 "name": "Robert Huang",
+                "wonTournaments": {
+                    "S-Tier": 4,
+                    "A-Tier": 2,
+                    "Misc": 1
+                },
                 "username": "Blaber",
                 "nation": "United States",
                 "age": "23",
@@ -274,6 +398,11 @@
             {
                 "team": "NRG",
                 "name": "Cristian Palafox",
+                "wonTournaments": {
+                    "S-Tier": 1,
+                    "A-Tier": 2,
+                    "Misc": 1
+                },
                 "username": "Palafox",
                 "nation": "United States",
                 "age": "24",
@@ -284,6 +413,10 @@
             {
                 "team": null,
                 "name": "Eugene Park",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "Qualifier": 1
+                },
                 "username": "Pobelter",
                 "nation": "United States",
                 "age": "26",
@@ -294,6 +427,9 @@
             {
                 "team": null,
                 "name": "Aaron Lee",
+                "wonTournaments": {
+                    "A-Tier": 3
+                },
                 "username": "FakeGod",
                 "nation": "United States",
                 "age": "23",
@@ -304,6 +440,11 @@
             {
                 "team": "G2 Esports",
                 "name": "Rasmus Borregaard Winther",
+                "wonTournaments": {
+                    "S-Tier": 11,
+                    "Misc": 1,
+                    "A-Tier": 1
+                },
                 "username": "Caps",
                 "nation": "Denmark",
                 "age": "23",
@@ -314,6 +455,11 @@
             {
                 "team": "Fnatic",
                 "name": "Carl Martin Erik Larsson",
+                "wonTournaments": {
+                    "A-Tier": 4,
+                    "S-Tier": 4,
+                    "B-Tier": 1
+                },
                 "username": "Rekkles",
                 "nation": "Sweden",
                 "age": "26",
@@ -324,6 +470,11 @@
             {
                 "team": "Team Vitality",
                 "name": "Luka Perković",
+                "wonTournaments": {
+                    "S-Tier": 10,
+                    "A-Tier": 1,
+                    "Qualifier": 1
+                },
                 "username": "Perkz",
                 "nation": "Croatia",
                 "age": "24",
@@ -334,6 +485,11 @@
             {
                 "team": "MAD Lions",
                 "name": "Zdravets Iliev Galabov",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "A-Tier": 2,
+                    "Qualifier": 1
+                },
                 "username": "Hylissang",
                 "nation": "Bulgaria",
                 "age": "28",
@@ -344,6 +500,12 @@
             {
                 "team": "Excel Esports",
                 "name": "Andrei Pascu",
+                "wonTournaments": {
+                    "S-Tier": 1,
+                    "Qualifier": 1,
+                    "A-Tier": 3,
+                    "B-Tier": 2
+                },
                 "username": "Odoamne",
                 "nation": "Romania",
                 "age": "28",
@@ -354,6 +516,9 @@
             {
                 "team": null,
                 "name": "Barney Morris",
+                "wonTournaments": {
+                    "A-Tier": 3
+                },
                 "username": "Alphari",
                 "nation": "United Kingdom",
                 "age": "23",
@@ -364,6 +529,9 @@
             {
                 "team": "Team Vitality",
                 "name": "Elias Lipp",
+                "wonTournaments": {
+                    "A-Tier": 1
+                },
                 "username": "Upset",
                 "nation": "Germany",
                 "age": "23",
@@ -374,6 +542,12 @@
             {
                 "team": "Fnatic",
                 "name": "Marek Brázda",
+                "wonTournaments": {
+                    "S-Tier": 2,
+                    "B-Tier": 2,
+                    "A-Tier": 1,
+                    "C-Tier": 1
+                },
                 "username": "Humanoid",
                 "nation": "Czechia",
                 "age": "23",
@@ -384,6 +558,11 @@
             {
                 "team": "Team Heretics",
                 "name": "Marcin Jankowski",
+                "wonTournaments": {
+                    "S-Tier": 6,
+                    "A-Tier": 1,
+                    "Qualifier": 2
+                },
                 "username": "Jankos",
                 "nation": "Poland",
                 "age": "28",
@@ -394,6 +573,12 @@
             {
                 "team": null,
                 "name": "Martin Nordahl Hansen",
+                "wonTournaments": {
+                    "S-Tier": 5,
+                    "A-Tier": 3,
+                    "Qualifier": 1,
+                    "C-Tier": 1
+                },
                 "username": "Wunder",
                 "nation": "Denmark",
                 "age": "24",
@@ -404,6 +589,11 @@
             {
                 "team": "G2 Esports",
                 "name": "Steven Liv",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "A-Tier": 2,
+                    "B-Tier": 2
+                },
                 "username": "Hans Sama",
                 "nation": "France",
                 "age": "24",
@@ -414,6 +604,10 @@
             {
                 "team": "100 Thieves",
                 "name": "Erlend Våtevik Holm",
+                "wonTournaments": {
+                    "Qualifier": 2,
+                    "B-Tier": 1
+                },
                 "username": "Nukeduck",
                 "nation": "Norway",
                 "age": "27",
@@ -424,6 +618,12 @@
             {
                 "team": "Ultra Prime",
                 "name": "Hu Shuo-chieh",
+                "wonTournaments": {
+                    "A-Tier": 4,
+                    "Qualifier": 2,
+                    "S-Tier": 5,
+                    "B-Tier": 2
+                },
                 "username": "SwordArT",
                 "nation": "Taiwan",
                 "age": "26",
@@ -434,6 +634,7 @@
             {
                 "team": null,
                 "name": "Wong Xing Lei",
+                "wonTournaments": {},
                 "username": "Chawy",
                 "nation": "Singapore",
                 "age": "31",
@@ -444,6 +645,10 @@
             {
                 "team": null,
                 "name": "Liu Shu-wei",
+                "wonTournaments": {
+                    "Qualifier": 1,
+                    "A-Tier": 1
+                },
                 "username": "Westdoor",
                 "nation": "Taiwan",
                 "age": "29",
@@ -454,6 +659,7 @@
             {
                 "team": "PSG Talon",
                 "name": "Chen Yi",
+                "wonTournaments": null,
                 "username": "Ziv",
                 "nation": "Taiwan",
                 "age": "28",
@@ -464,6 +670,12 @@
             {
                 "team": "PSG Talon",
                 "name": "Huang Yi-tang",
+                "wonTournaments": {
+                    "A-Tier": 6,
+                    "S-Tier": 5,
+                    "B-Tier": 2,
+                    "Qualifier": 1
+                },
                 "username": "Maple",
                 "nation": "Taiwan",
                 "age": "25",
@@ -474,6 +686,9 @@
             {
                 "team": null,
                 "name": "Chen Kuan-ting",
+                "wonTournaments": {
+                    "S-Tier": 2
+                },
                 "username": "Morning",
                 "nation": "Taiwan",
                 "age": "27",
@@ -484,6 +699,11 @@
             {
                 "team": "Saigon Buffalo",
                 "name": "Nguyễn Ngọc Hùng",
+                "wonTournaments": {
+                    "A-Tier": 3,
+                    "Qualifier": 2,
+                    "B-Tier": 1
+                },
                 "username": "Slay",
                 "nation": "Vietnam",
                 "age": "26",
@@ -494,6 +714,10 @@
             {
                 "team": null,
                 "name": "Mustafa Kemal Gökseloğlu",
+                "wonTournaments": {
+                    "A-Tier": 2,
+                    "Misc": 1
+                },
                 "username": "Dumbledoge",
                 "nation": "Turkey",
                 "age": "29",
@@ -504,6 +728,9 @@
             {
                 "team": "SuperMassive",
                 "name": "Berkay Aşıkuzun",
+                "wonTournaments": {
+                    "A-Tier": 3
+                },
                 "username": "Zeitnot",
                 "nation": "Turkey",
                 "age": "28",
@@ -514,6 +741,10 @@
             {
                 "team": null,
                 "name": "Mykhailo Harmash",
+                "wonTournaments": {
+                    "A-Tier": 6,
+                    "B-Tier": 1
+                },
                 "username": "Kira",
                 "nation": "Ukraine",
                 "age": "30",
@@ -524,6 +755,12 @@
             {
                 "team": null,
                 "name": "Danil Reshetnikov",
+                "wonTournaments": {
+                    "A-Tier": 7,
+                    "B-Tier": 1,
+                    "Qualifier": 3,
+                    "S-Tier": 1
+                },
                 "username": "Diamondprox",
                 "nation": "Russia",
                 "age": "30",
@@ -534,6 +771,12 @@
             {
                 "team": "RA'AD",
                 "name": "Edward Abgaryan",
+                "wonTournaments": {
+                    "A-Tier": 8,
+                    "B-Tier": 1,
+                    "Qualifier": 2,
+                    "S-Tier": 1
+                },
                 "username": "Edward",
                 "nation": "Armenia",
                 "age": "29",
@@ -544,6 +787,11 @@
             {
                 "team": "RED Canids",
                 "name": "Alexandre Lima",
+                "wonTournaments": {
+                    "A-Tier": 4,
+                    "B-Tier": 3,
+                    "Qualifier": 1
+                },
                 "username": "TitaN",
                 "nation": "Brazil",
                 "age": "23",
@@ -554,6 +802,10 @@
             {
                 "team": "Fluxo",
                 "name": "Felipe Gonçalves",
+                "wonTournaments": {
+                    "A-Tier": 7,
+                    "Qualifier": 1
+                },
                 "username": "brTT",
                 "nation": "Brazil",
                 "age": "32",
@@ -564,6 +816,10 @@
             {
                 "team": "INTZ",
                 "name": "Gabriel Henud Cresci",
+                "wonTournaments": {
+                    "Qualifier": 2,
+                    "A-Tier": 5
+                },
                 "username": "Revolta",
                 "nation": "Brazil",
                 "age": "27",
@@ -574,6 +830,9 @@
             {
                 "team": null,
                 "name": "Matías Musso",
+                "wonTournaments": {
+                    "A-Tier": 6
+                },
                 "username": "Whitelotus",
                 "nation": "Argentina",
                 "age": "27",
@@ -584,6 +843,10 @@
             {
                 "team": "Eclipse Gaming",
                 "name": "Sebastián Andrés Mateluna Cibrario",
+                "wonTournaments": {
+                    "B-Tier": 2,
+                    "A-Tier": 3
+                },
                 "username": "Tierwulf",
                 "nation": "Chile",
                 "age": "26",
@@ -594,6 +857,9 @@
             {
                 "team": "Six Karma",
                 "name": "Édgar Ali Bracamontes Munguía",
+                "wonTournaments": {
+                    "A-Tier": 8
+                },
                 "username": "Seiya",
                 "nation": "Mexico",
                 "age": "27",
@@ -604,6 +870,11 @@
             {
                 "team": "EDward Gaming",
                 "name": "Jian Zihao",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "Misc": 4,
+                    "Qualifier": 1
+                },
                 "username": "Uzi",
                 "nation": "China",
                 "age": "26",
@@ -614,6 +885,11 @@
             {
                 "team": "Weibo Gaming",
                 "name": "Li Yuanhao",
+                "wonTournaments": {
+                    "A-Tier": 5,
+                    "S-Tier": 8,
+                    "Qualifier": 2
+                },
                 "username": "Xiaohu",
                 "nation": "China",
                 "age": "25",
@@ -624,6 +900,12 @@
             {
                 "team": "Top Esports",
                 "name": "Yu Wenbo",
+                "wonTournaments": {
+                    "Showmatch": 1,
+                    "A-Tier": 5,
+                    "S-Tier": 4,
+                    "Qualifier": 1
+                },
                 "username": "JackeyLove",
                 "nation": "China",
                 "age": "22",
@@ -634,6 +916,12 @@
             {
                 "team": "Weibo Gaming",
                 "name": "Kang Seung-lok",
+                "wonTournaments": {
+                    "Showmatch": 1,
+                    "A-Tier": 3,
+                    "Qualifier": 1,
+                    "S-Tier": 2
+                },
                 "username": "TheShy",
                 "nation": "South Korea",
                 "age": "23",
@@ -644,6 +932,11 @@
             {
                 "team": "Top Esports",
                 "name": "Song Eui-jin",
+                "wonTournaments": {
+                    "A-Tier": 3,
+                    "Qualifier": 1,
+                    "S-Tier": 3
+                },
                 "username": "Rookie",
                 "nation": "South Korea",
                 "age": "26",
@@ -654,6 +947,11 @@
             {
                 "team": null,
                 "name": "Jin Seong-jun",
+                "wonTournaments": {
+                    "A-Tier": 2,
+                    "S-Tier": 1,
+                    "Qualifier": 1
+                },
                 "username": "Mystic",
                 "nation": "South Korea",
                 "age": "28",
@@ -664,6 +962,12 @@
             {
                 "team": null,
                 "name": "Liu Shiyu",
+                "wonTournaments": {
+                    "S-Tier": 4,
+                    "Misc": 2,
+                    "A-Tier": 1,
+                    "Qualifier": 1
+                },
                 "username": "Mlxg",
                 "nation": "China",
                 "age": "27",
@@ -674,6 +978,11 @@
             {
                 "team": "EDward Gaming",
                 "name": "Ming Kai",
+                "wonTournaments": {
+                    "S-Tier": 8,
+                    "Qualifier": 1,
+                    "A-Tier": 2
+                },
                 "username": "Clearlove",
                 "nation": "China",
                 "age": "30",
@@ -684,6 +993,10 @@
             {
                 "team": "Cloud9",
                 "name": "Ibrahim Allami",
+                "wonTournaments": {
+                    "S-Tier": 3,
+                    "A-Tier": 3
+                },
                 "username": "Fudge",
                 "nation": "Australia",
                 "age": "21",
@@ -694,6 +1007,11 @@
             {
                 "team": "NRG",
                 "name": "Victor Huang",
+                "wonTournaments": {
+                    "S-Tier": 2,
+                    "A-Tier": 1,
+                    "Misc": 1
+                },
                 "username": "FBI",
                 "nation": "Australia",
                 "age": "24",

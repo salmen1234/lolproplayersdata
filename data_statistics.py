@@ -43,5 +43,3 @@ def get_average_earnings(console: bool = True):
     average_earnings = f"${formatted_number}"
     
     return average_earnings
-
-print(get_average_earnings())

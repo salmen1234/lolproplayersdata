@@ -1,6 +1,6 @@
 import json
 from liquipedia import get_player_urls, get_player_informations
-from settings import CONSOLE
+from settings import CONSOLE, TESTING
 
 def write_player(path: str, playerInformations):
     try:
@@ -32,11 +32,17 @@ def write_data_json(path: str):
     
     plrs_url = get_player_urls(console=CONSOLE)
     
+    number = 0
+
     for plr_url in plrs_url:
-        plr_info = get_player_informations(plr_url)
+        number += 1
+        plr_info = get_player_informations(plr_url, len(plrs_url), number=number)
         
         if plr_info:
             data["players"].append(plr_info)
+
+        if TESTING == True:
+            break
     
     with open(path, "w", encoding="utf-8") as file:
         json.dump([data], file, indent=4, ensure_ascii=False)
