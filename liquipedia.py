@@ -89,6 +89,10 @@ def get_player_informations(url: str, playerNumber: int, console: bool = True, n
         informations["wonTournaments"] = get_won_tournaments(url)
         informations["username"] = username
 
+        social_media = get_social_medias(url)
+
+        informations["links"] = social_media
+
     if console == True:
         print(f">> Fetching {username} informations.. ({number}/{playerNumber})")
 
@@ -119,3 +123,32 @@ def get_won_tournaments(url: str):
                 wins[tournament_name] = 1
                 
     return wins
+
+def get_social_medias(url: str):
+    res = requests.get(url)
+
+    soup = BeautifulSoup(res.text, "lxml")
+
+    links_div = soup.find("div", {"class": "infobox-center infobox-icons"})
+    links = {}
+    
+    if links_div == None:
+        return
+
+    for social_media in links_div.findAll("a"):
+        link = social_media.get("href")
+
+        if "youtube" in str(link):
+            links["youtube"] = link
+        elif "facebook" in str(link):
+            links["facebook"] = link
+        elif "instagram" in str(link):
+            links["instagram"] = link
+        elif "twitter" in str(link):
+            links["twitter"] = link
+        elif "factor" in str(link):
+            links["factor"] = link
+        elif "twitch" in str(link):
+            links["twitch"] = link
+    
+    return links

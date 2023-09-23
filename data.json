@@ -11,6 +11,14 @@
                     "Misc": 1
                 },
                 "username": "Faker",
+                "links": {
+                    "factor": "https://www.factor.gg/player/942",
+                    "facebook": "https://facebook.com/fakerkorea",
+                    "instagram": "https://www.instagram.com/faker",
+                    "twitter": "https://twitter.com/faker",
+                    "twitch": "https://www.twitch.tv/faker",
+                    "youtube": "https://www.youtube.com/channel/UCpJw2H9KKqwCCGQKRh1Bf2w/"
+                },
                 "nation": "South Korea",
                 "age": "27",
                 "status": "Active",
@@ -25,6 +33,12 @@
                     "A-Tier": 1
                 },
                 "username": "Khan",
+                "links": {
+                    "facebook": "https://facebook.com/sadoqqqq",
+                    "instagram": "https://www.instagram.com/sadoqqqq",
+                    "twitter": "https://twitter.com/sadoqqqq",
+                    "twitch": "https://www.twitch.tv/lol_khan"
+                },
                 "nation": "South Korea",
                 "age": "27",
                 "status": "Retired",
@@ -40,6 +54,14 @@
                     "A-Tier": 1
                 },
                 "username": "Peanut",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2309",
+                    "facebook": "https://facebook.com/profile.php?id=100010332576278",
+                    "instagram": "https://www.instagram.com/wanghohan98",
+                    "twitter": "https://twitter.com/lolPeanut98",
+                    "twitch": "https://www.twitch.tv/lol_peanut",
+                    "youtube": "https://www.youtube.com/channel/UCSRkC3h5WHvDFjE7uJ2zjIg"
+                },
                 "nation": "South Korea",
                 "age": "25",
                 "status": "Active",
@@ -53,6 +75,12 @@
                     "S-Tier": 9
                 },
                 "username": "Bang",
+                "links": {
+                    "instagram": "https://www.instagram.com/junsik_bae_bang",
+                    "twitter": "https://twitter.com/Bang",
+                    "twitch": "https://www.twitch.tv/bang",
+                    "youtube": "https://www.youtube.com/channel/UCnDcpS7XLQ9KFPqULb9TH8g/"
+                },
                 "nation": "South Korea",
                 "age": "27",
                 "status": "Retired",
@@ -68,6 +96,11 @@
                     "S-Tier": 2
                 },
                 "username": "Bdd",
+                "links": {
+                    "facebook": "https://facebook.com/Bdd990301",
+                    "instagram": "https://www.instagram.com/lol_bdd_0301",
+                    "twitter": "https://twitter.com/Bdd990301"
+                },
                 "nation": "South Korea",
                 "age": "24",
                 "status": "Active",
@@ -83,6 +116,9 @@
                     "S-Tier": 1
                 },
                 "username": "Spirit",
+                "links": {
+                    "twitter": "https://twitter.com/lol_spiritot"
+                },
                 "nation": "South Korea",
                 "age": "27",
                 "status": "Active",
@@ -98,6 +134,12 @@
                     "B-Tier": 2
                 },
                 "username": "Ambition",
+                "links": {
+                    "facebook": "https://facebook.com/chandragon2",
+                    "twitter": "https://twitter.com/lol_ambition",
+                    "twitch": "https://www.twitch.tv/lol_ambition",
+                    "youtube": "https://www.youtube.com/channel/UCHYMpkGhNIr8A0m2H3lIjUA"
+                },
                 "nation": "South Korea",
                 "age": "30",
                 "status": "Retired",
@@ -112,6 +154,12 @@
                     "A-Tier": 2
                 },
                 "username": "Deft",
+                "links": {
+                    "factor": "https://www.factor.gg/player/153",
+                    "facebook": "https://facebook.com/hyuk9zzang",
+                    "twitter": "https://twitter.com/KTDefT1",
+                    "twitch": "https://www.twitch.tv/ilku1023"
+                },
                 "nation": "South Korea",
                 "age": "26",
                 "status": "Active",
@@ -127,6 +175,10 @@
                     "A-Tier": 2
                 },
                 "username": "Smeb",
+                "links": {
+                    "instagram": "https://www.instagram.com/kyungho0",
+                    "twitter": "https://twitter.com/LOLSmeb"
+                },
                 "nation": "South Korea",
                 "age": "28",
                 "status": "Retired",
@@ -141,6 +193,11 @@
                     "A-Tier": 2
                 },
                 "username": "Mata",
+                "links": {
+                    "facebook": "https://facebook.com/matasehyoung",
+                    "instagram": "https://www.instagram.com/mata_sehyoung",
+                    "twitch": "https://www.twitch.tv/mata"
+                },
                 "nation": "South Korea",
                 "age": "29",
                 "status": "Active",
@@ -154,6 +211,9 @@
                     "S-Tier": 1
                 },
                 "username": "Ucal",
+                "links": {
+                    "twitch": "https://www.twitch.tv/ucal68"
+                },
                 "nation": "South Korea",
                 "age": "22",
                 "status": "Active",
@@ -170,6 +230,10 @@
                     "B-Tier": 1
                 },
                 "username": "Score",
+                "links": {
+                    "facebook": "https://facebook.com/Score222",
+                    "twitch": "https://www.twitch.tv/score1992"
+                },
                 "nation": "South Korea",
                 "age": "31",
                 "status": "Active",
@@ -185,6 +249,10 @@
                     "Qualifier": 1
                 },
                 "username": "PraY",
+                "links": {
+                    "twitter": "https://twitter.com/LolPraY",
+                    "twitch": "https://www.twitch.tv/lolpray8d"
+                },
                 "nation": "South Korea",
                 "age": "29",
                 "status": "Retired",
@@ -199,6 +267,10 @@
                     "A-Tier": 1
                 },
                 "username": "GorillA",
+                "links": {
+                    "twitter": "https://twitter.com/lolGorillA",
+                    "twitch": "https://www.twitch.tv/lolgorillaxd"
+                },
                 "nation": "South Korea",
                 "age": "28",
                 "status": "Active",
@@ -213,6 +285,12 @@
                     "A-Tier": 2
                 },
                 "username": "Deft",
+                "links": {
+                    "factor": "https://www.factor.gg/player/153",
+                    "facebook": "https://facebook.com/hyuk9zzang",
+                    "twitter": "https://twitter.com/KTDefT1",
+                    "twitch": "https://www.twitch.tv/ilku1023"
+                },
                 "nation": "South Korea",
                 "age": "26",
                 "status": "Active",
@@ -229,6 +307,12 @@
                     "Qualifier": 1
                 },
                 "username": "Impact",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2654",
+                    "instagram": "https://www.instagram.com/impact_lol",
+                    "twitter": "https://twitter.com/Impact",
+                    "twitch": "https://www.twitch.tv/tlimpact"
+                },
                 "nation": "South Korea",
                 "age": "28",
                 "status": "Active",
@@ -243,6 +327,13 @@
                     "S-Tier": 4
                 },
                 "username": "Huni",
+                "links": {
+                    "facebook": "https://facebook.com/Huni46",
+                    "instagram": "https://www.instagram.com/hunilol",
+                    "twitter": "https://twitter.com/Huni",
+                    "twitch": "https://www.twitch.tv/huni",
+                    "youtube": "https://www.youtube.com/c/Hunilolpro"
+                },
                 "nation": "South Korea",
                 "age": "25",
                 "status": "Retired",
@@ -258,6 +349,14 @@
                     "B-Tier": 2
                 },
                 "username": "Levi",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1275",
+                    "facebook": "https://facebook.com/lolLevi",
+                    "instagram": "https://www.instagram.com/leviii97",
+                    "twitter": "https://twitter.com/lolLevi97",
+                    "twitch": "https://www.twitch.tv/lollevi97",
+                    "youtube": "https://www.youtube.com/channel/UClbFnMu72DbIvh6aZebAHsA"
+                },
                 "nation": "Vietnam",
                 "age": "25",
                 "status": "Active",
@@ -273,6 +372,11 @@
                     "Qualifier": 3
                 },
                 "username": "Dardoch",
+                "links": {
+                    "instagram": "https://www.instagram.com/dardochlol",
+                    "twitter": "https://twitter.com/Dardoch",
+                    "twitch": "https://www.twitch.tv/Dardoch"
+                },
                 "nation": "United States",
                 "age": "25",
                 "status": "Active",
@@ -288,6 +392,12 @@
                     "A-Tier": 3
                 },
                 "username": "Zven",
+                "links": {
+                    "factor": "https://www.factor.gg/player/3351",
+                    "facebook": "https://facebook.com/ZvenLoL",
+                    "twitter": "https://twitter.com/Zven",
+                    "twitch": "https://www.twitch.tv/c9zven"
+                },
                 "nation": "Denmark",
                 "age": "26",
                 "status": "Active",
@@ -304,6 +414,12 @@
                     "A-Tier": 3
                 },
                 "username": "FEBIVEN",
+                "links": {
+                    "facebook": "https://facebook.com/febiven",
+                    "instagram": "https://www.instagram.com/febivenlol",
+                    "twitter": "https://twitter.com/FEBIVEN",
+                    "twitch": "https://www.twitch.tv/fabiantje"
+                },
                 "nation": "Netherlands",
                 "age": "26",
                 "status": "Active",
@@ -318,6 +434,13 @@
                     "A-Tier": 6
                 },
                 "username": "Jensen",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2856",
+                    "instagram": "https://www.instagram.com/jensenliquid",
+                    "twitter": "https://twitter.com/jensen",
+                    "twitch": "https://www.twitch.tv/jensen",
+                    "youtube": "https://www.youtube.com/UCDMLY4MFSNzZEXb2kxYPYRQ"
+                },
                 "nation": "Denmark",
                 "age": "28",
                 "status": "Active",
@@ -334,6 +457,14 @@
                     "Qualifier": 1
                 },
                 "username": "Bjergsen",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1285",
+                    "facebook": "https://facebook.com/Bjergsen",
+                    "instagram": "https://www.instagram.com/Bjergsen",
+                    "twitter": "https://twitter.com/Bjergsen",
+                    "twitch": "https://www.twitch.tv/bjergsenlol",
+                    "youtube": "https://www.youtube.com/BjergsenLoL"
+                },
                 "nation": "Denmark",
                 "age": "27",
                 "status": "Retired",
@@ -347,6 +478,13 @@
                     "S-Tier": 2
                 },
                 "username": "aphromoo",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2349",
+                    "instagram": "https://www.instagram.com/aphromoo",
+                    "twitter": "https://twitter.com/aphromoo",
+                    "twitch": "https://www.twitch.tv/aphromoo",
+                    "youtube": "https://www.youtube.com/user/Aphromoo"
+                },
                 "nation": "United States",
                 "age": "31",
                 "status": "Retired",
@@ -361,6 +499,10 @@
                     "C-Tier": 1
                 },
                 "username": "Tactical",
+                "links": {
+                    "twitter": "https://twitter.com/Tactical",
+                    "twitch": "https://www.twitch.tv/loltactical"
+                },
                 "nation": "United States",
                 "age": "23",
                 "status": "Active",
@@ -374,6 +516,12 @@
                     "A-Tier": 3
                 },
                 "username": "Smoothie",
+                "links": {
+                    "instagram": "https://www.instagram.com/Smoothie.lol",
+                    "twitter": "https://twitter.com/Smoothie",
+                    "twitch": "https://www.twitch.tv/smoothie",
+                    "youtube": "https://www.youtube.com/channel/UCJDTyaN2zx-qOWDin3AFhbA"
+                },
                 "nation": "Canada",
                 "age": "26",
                 "status": "Active",
@@ -389,6 +537,12 @@
                     "Misc": 1
                 },
                 "username": "Blaber",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2527",
+                    "instagram": "https://www.instagram.com/c9blaber",
+                    "twitter": "https://twitter.com/blaber",
+                    "twitch": "https://www.twitch.tv/blaberfish"
+                },
                 "nation": "United States",
                 "age": "23",
                 "status": "Active",
@@ -404,6 +558,11 @@
                     "Misc": 1
                 },
                 "username": "Palafox",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2275",
+                    "twitter": "https://twitter.com/palafoxlol",
+                    "twitch": "https://www.twitch.tv/palafox"
+                },
                 "nation": "United States",
                 "age": "24",
                 "status": "Active",
@@ -418,6 +577,12 @@
                     "Qualifier": 1
                 },
                 "username": "Pobelter",
+                "links": {
+                    "facebook": "https://facebook.com/LoLPobelter",
+                    "instagram": "https://www.instagram.com/pobelt",
+                    "twitter": "https://twitter.com/Pobelter",
+                    "twitch": "https://www.twitch.tv/pobelter"
+                },
                 "nation": "United States",
                 "age": "26",
                 "status": "Active",
@@ -431,6 +596,10 @@
                     "A-Tier": 3
                 },
                 "username": "FakeGod",
+                "links": {
+                    "twitter": "https://twitter.com/FakeGod",
+                    "twitch": "https://www.twitch.tv/fakegod"
+                },
                 "nation": "United States",
                 "age": "23",
                 "status": "Active",
@@ -446,6 +615,13 @@
                     "A-Tier": 1
                 },
                 "username": "Caps",
+                "links": {
+                    "factor": "https://www.factor.gg/player/383",
+                    "instagram": "https://www.instagram.com/g2.caps_",
+                    "twitter": "https://twitter.com/G2Caps",
+                    "twitch": "https://www.twitch.tv/caps",
+                    "youtube": "https://www.youtube.com/channel/UCH3kbIp12IiqaPbfRvtUiMg"
+                },
                 "nation": "Denmark",
                 "age": "23",
                 "status": "Active",
@@ -461,6 +637,13 @@
                     "B-Tier": 1
                 },
                 "username": "Rekkles",
+                "links": {
+                    "facebook": "https://facebook.com/RekklesLoL",
+                    "instagram": "https://www.instagram.com/rekkles",
+                    "twitter": "https://twitter.com/RekklesLoL",
+                    "twitch": "https://www.twitch.tv/rekkles",
+                    "youtube": "https://www.youtube.com/rekkles"
+                },
                 "nation": "Sweden",
                 "age": "26",
                 "status": "Active",
@@ -476,6 +659,14 @@
                     "Qualifier": 1
                 },
                 "username": "Perkz",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1352",
+                    "facebook": "https://facebook.com/Perkzlol",
+                    "instagram": "https://www.instagram.com/c9perkz",
+                    "twitter": "https://twitter.com/Perkz",
+                    "twitch": "https://www.twitch.tv/perkz_lol",
+                    "youtube": "https://www.youtube.com/channel/UC5Bnfg0KYC9cxlx8VlrlPuA"
+                },
                 "nation": "Croatia",
                 "age": "24",
                 "status": "Active",
@@ -491,6 +682,13 @@
                     "Qualifier": 1
                 },
                 "username": "Hylissang",
+                "links": {
+                    "factor": "https://www.factor.gg/player/817",
+                    "facebook": "https://facebook.com/Hylissang",
+                    "instagram": "https://www.instagram.com/fnatic.hylissang",
+                    "twitter": "https://twitter.com/Hylissang_lol",
+                    "twitch": "https://www.twitch.tv/hylissanglol"
+                },
                 "nation": "Bulgaria",
                 "age": "28",
                 "status": "Active",
@@ -507,6 +705,14 @@
                     "B-Tier": 2
                 },
                 "username": "Odoamne",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2215",
+                    "facebook": "https://facebook.com/OdoamneLoL",
+                    "instagram": "https://www.instagram.com/odoamnelol",
+                    "twitter": "https://twitter.com/Odoamne",
+                    "twitch": "https://www.twitch.tv/odoamne",
+                    "youtube": "https://www.youtube.com/@Odoamnee"
+                },
                 "nation": "Romania",
                 "age": "28",
                 "status": "Active",
@@ -520,6 +726,12 @@
                     "A-Tier": 3
                 },
                 "username": "Alphari",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1188",
+                    "instagram": "https://www.instagram.com/alpharilol",
+                    "twitter": "https://twitter.com/Alphari",
+                    "twitch": "https://www.twitch.tv/alphariftw"
+                },
                 "nation": "United Kingdom",
                 "age": "23",
                 "status": "Active",
@@ -533,6 +745,12 @@
                     "A-Tier": 1
                 },
                 "username": "Upset",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1610",
+                    "instagram": "https://www.instagram.com/upsetger",
+                    "twitter": "https://twitter.com/FNC_Upset",
+                    "twitch": "https://www.twitch.tv/upsetger"
+                },
                 "nation": "Germany",
                 "age": "23",
                 "status": "Active",
@@ -549,6 +767,13 @@
                     "C-Tier": 1
                 },
                 "username": "Humanoid",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1413",
+                    "facebook": "https://facebook.com/Humanoid-1666770723611246",
+                    "instagram": "https://www.instagram.com/humanoidlol",
+                    "twitter": "https://twitter.com/Humanoidlol",
+                    "twitch": "https://www.twitch.tv/humanoiidd"
+                },
                 "nation": "Czechia",
                 "age": "23",
                 "status": "Active",
@@ -564,6 +789,13 @@
                     "Qualifier": 2
                 },
                 "username": "Jankos",
+                "links": {
+                    "factor": "https://www.factor.gg/player/545",
+                    "facebook": "https://facebook.com/Jankos.lol",
+                    "twitter": "https://twitter.com/JankosLoL",
+                    "twitch": "https://www.twitch.tv/jankos",
+                    "youtube": "https://www.youtube.com/channel/UCuIBqCNr-kQwalr5BjsFT6Q"
+                },
                 "nation": "Poland",
                 "age": "28",
                 "status": "Active",
@@ -580,6 +812,13 @@
                     "C-Tier": 1
                 },
                 "username": "Wunder",
+                "links": {
+                    "factor": "https://www.factor.gg/player/546",
+                    "facebook": "https://facebook.com/WunderwearLoL",
+                    "instagram": "https://www.instagram.com/wunderlol",
+                    "twitter": "https://twitter.com/wunderlol",
+                    "twitch": "https://www.twitch.tv/wunderlol"
+                },
                 "nation": "Denmark",
                 "age": "24",
                 "status": "Active",
@@ -595,6 +834,14 @@
                     "B-Tier": 2
                 },
                 "username": "Hans Sama",
+                "links": {
+                    "factor": "https://www.factor.gg/player/835",
+                    "facebook": "https://facebook.com/hanssamalol",
+                    "instagram": "https://www.instagram.com/hanssamalol",
+                    "twitter": "https://twitter.com/Hanssama",
+                    "twitch": "https://www.twitch.tv/hanssama",
+                    "youtube": "https://www.youtube.com/HanssamaLoL"
+                },
                 "nation": "France",
                 "age": "24",
                 "status": "Active",
@@ -609,6 +856,11 @@
                     "B-Tier": 1
                 },
                 "username": "Nukeduck",
+                "links": {
+                    "factor": "https://www.factor.gg/player/38",
+                    "twitter": "https://twitter.com/Nukeduck",
+                    "twitch": "https://www.twitch.tv/nukeducklol"
+                },
                 "nation": "Norway",
                 "age": "27",
                 "status": "Active",
@@ -625,6 +877,11 @@
                     "B-Tier": 2
                 },
                 "username": "SwordArT",
+                "links": {
+                    "facebook": "https://facebook.com/Swordartlol",
+                    "instagram": "https://www.instagram.com/swordart1221",
+                    "twitter": "https://twitter.com/TSM_SwordArt"
+                },
                 "nation": "Taiwan",
                 "age": "26",
                 "status": "Active",
@@ -636,6 +893,11 @@
                 "name": "Wong Xing Lei",
                 "wonTournaments": {},
                 "username": "Chawy",
+                "links": {
+                    "facebook": "https://facebook.com/ChawyXL?fref=nf",
+                    "twitter": "https://twitter.com/ChawyWong",
+                    "twitch": "https://www.twitch.tv/chawy"
+                },
                 "nation": "Singapore",
                 "age": "31",
                 "status": "Active",
@@ -650,6 +912,11 @@
                     "A-Tier": 1
                 },
                 "username": "Westdoor",
+                "links": {
+                    "facebook": "https://facebook.com/ho5866252",
+                    "instagram": "https://www.instagram.com/westdoor_1016",
+                    "twitch": "https://www.twitch.tv/westdoor"
+                },
                 "nation": "Taiwan",
                 "age": "29",
                 "status": "Retired",
@@ -661,6 +928,12 @@
                 "name": "Chen Yi",
                 "wonTournaments": null,
                 "username": "Ziv",
+                "links": {
+                    "facebook": "https://facebook.com/ahqziv",
+                    "instagram": "https://www.instagram.com/ziv_12.24",
+                    "twitch": "https://www.twitch.tv/ziv_lol",
+                    "youtube": "https://www.youtube.com/@Zivlol"
+                },
                 "nation": "Taiwan",
                 "age": "28",
                 "status": "Retired",
@@ -677,6 +950,11 @@
                     "Qualifier": 1
                 },
                 "username": "Maple",
+                "links": {
+                    "factor": "https://www.factor.gg/player/49",
+                    "facebook": "https://facebook.com/mapleage",
+                    "twitch": "https://www.twitch.tv/MapleTom"
+                },
                 "nation": "Taiwan",
                 "age": "25",
                 "status": "Active",
@@ -690,6 +968,9 @@
                     "S-Tier": 2
                 },
                 "username": "Morning",
+                "links": {
+                    "facebook": "https://facebook.com/morninglol"
+                },
                 "nation": "Taiwan",
                 "age": "27",
                 "status": "Active",
@@ -705,6 +986,11 @@
                     "B-Tier": 1
                 },
                 "username": "Slay",
+                "links": {
+                    "facebook": "https://facebook.com/lolslayy",
+                    "instagram": "https://www.instagram.com/hungnguyen.n",
+                    "youtube": "https://www.youtube.com/channel/UC9ccQMGdOrtuSOt6qp4DoBA"
+                },
                 "nation": "Vietnam",
                 "age": "26",
                 "status": "Active",
@@ -719,6 +1005,12 @@
                     "Misc": 1
                 },
                 "username": "Dumbledoge",
+                "links": {
+                    "facebook": "https://facebook.com/dumbledoge",
+                    "instagram": "https://www.instagram.com/dumblecate",
+                    "twitter": "https://twitter.com/DumbledogeLoL",
+                    "twitch": "https://www.twitch.tv/dumbledogelol"
+                },
                 "nation": "Turkey",
                 "age": "29",
                 "status": "Retired",
@@ -732,6 +1024,11 @@
                     "A-Tier": 3
                 },
                 "username": "Zeitnot",
+                "links": {
+                    "facebook": "https://facebook.com/zeitnotlol",
+                    "instagram": "https://www.instagram.com/zeitnotlol",
+                    "twitter": "https://twitter.com/Zeitnotlol"
+                },
                 "nation": "Turkey",
                 "age": "28",
                 "status": "Active",
@@ -746,6 +1043,10 @@
                     "B-Tier": 1
                 },
                 "username": "Kira",
+                "links": {
+                    "twitter": "https://twitter.com/kirrrra007",
+                    "twitch": "https://www.twitch.tv/kirrrrra"
+                },
                 "nation": "Ukraine",
                 "age": "30",
                 "status": "Active",
@@ -762,6 +1063,11 @@
                     "S-Tier": 1
                 },
                 "username": "Diamondprox",
+                "links": {
+                    "facebook": "https://facebook.com/GambitDiamondprox",
+                    "twitter": "https://twitter.com/Diamondprox_LoL",
+                    "twitch": "https://www.twitch.tv/tehdiamondz"
+                },
                 "nation": "Russia",
                 "age": "30",
                 "status": "Active",
@@ -778,6 +1084,12 @@
                     "S-Tier": 1
                 },
                 "username": "Edward",
+                "links": {
+                    "facebook": "https://facebook.com/Edwardcarrylol",
+                    "instagram": "https://www.instagram.com/edwardcarrylol",
+                    "twitter": "https://twitter.com/EdwardCarryLoL",
+                    "twitch": "https://www.twitch.tv/EdwardLoL"
+                },
                 "nation": "Armenia",
                 "age": "29",
                 "status": "Active",
@@ -793,6 +1105,10 @@
                     "Qualifier": 1
                 },
                 "username": "TitaN",
+                "links": {
+                    "facebook": "https://facebook.com/titanlol",
+                    "twitter": "https://twitter.com/titannlol1"
+                },
                 "nation": "Brazil",
                 "age": "23",
                 "status": "Active",
@@ -807,6 +1123,13 @@
                     "Qualifier": 1
                 },
                 "username": "brTT",
+                "links": {
+                    "facebook": "https://facebook.com/felipebrTT",
+                    "instagram": "https://www.instagram.com/felipebrtt_",
+                    "twitter": "https://twitter.com/brttOficial",
+                    "twitch": "https://www.twitch.tv/brtt",
+                    "youtube": "https://www.youtube.com/brttgames"
+                },
                 "nation": "Brazil",
                 "age": "32",
                 "status": "Retired",
@@ -821,6 +1144,11 @@
                     "A-Tier": 5
                 },
                 "username": "Revolta",
+                "links": {
+                    "instagram": "https://www.instagram.com/revoltalol",
+                    "twitter": "https://twitter.com/revoltalol",
+                    "twitch": "https://www.twitch.tv/revolta"
+                },
                 "nation": "Brazil",
                 "age": "27",
                 "status": "Active",
@@ -834,6 +1162,12 @@
                     "A-Tier": 6
                 },
                 "username": "Whitelotus",
+                "links": {
+                    "facebook": "https://facebook.com/whitelotuslol",
+                    "instagram": "https://www.instagram.com/lolwhitelotus",
+                    "twitter": "https://twitter.com/Whitelotuslol",
+                    "twitch": "https://www.twitch.tv/whitelotuslol"
+                },
                 "nation": "Argentina",
                 "age": "27",
                 "status": "Active",
@@ -848,6 +1182,11 @@
                     "A-Tier": 3
                 },
                 "username": "Tierwulf",
+                "links": {
+                    "facebook": "https://facebook.com/Tierwulf",
+                    "twitter": "https://twitter.com/Tierwulf",
+                    "twitch": "https://www.twitch.tv/Tierwulf"
+                },
                 "nation": "Chile",
                 "age": "26",
                 "status": "Active",
@@ -861,6 +1200,12 @@
                     "A-Tier": 8
                 },
                 "username": "Seiya",
+                "links": {
+                    "factor": "https://www.factor.gg/player/1579",
+                    "facebook": "https://facebook.com/seiyalol",
+                    "instagram": "https://www.instagram.com/seiyahax",
+                    "twitter": "https://twitter.com/seiyalol"
+                },
                 "nation": "Mexico",
                 "age": "27",
                 "status": "Active",
@@ -876,6 +1221,10 @@
                     "Qualifier": 1
                 },
                 "username": "Uzi",
+                "links": {
+                    "twitter": "https://twitter.com/UziRNG",
+                    "youtube": "https://www.youtube.com//channel/UCe74KM3IqpJtfreo-uGCKMw"
+                },
                 "nation": "China",
                 "age": "26",
                 "status": "Active",
@@ -891,6 +1240,9 @@
                     "Qualifier": 2
                 },
                 "username": "Xiaohu",
+                "links": {
+                    "factor": "https://www.factor.gg/player/192"
+                },
                 "nation": "China",
                 "age": "25",
                 "status": "Active",
@@ -907,6 +1259,9 @@
                     "Qualifier": 1
                 },
                 "username": "JackeyLove",
+                "links": {
+                    "factor": "https://www.factor.gg/player/657"
+                },
                 "nation": "China",
                 "age": "22",
                 "status": "Active",
@@ -923,6 +1278,9 @@
                     "S-Tier": 2
                 },
                 "username": "TheShy",
+                "links": {
+                    "factor": "https://www.factor.gg/player/3086"
+                },
                 "nation": "South Korea",
                 "age": "23",
                 "status": "Active",
@@ -938,6 +1296,11 @@
                     "S-Tier": 3
                 },
                 "username": "Rookie",
+                "links": {
+                    "factor": "https://www.factor.gg/player/6",
+                    "instagram": "https://www.instagram.com/song_yijin",
+                    "twitter": "https://twitter.com/RooKieGood"
+                },
                 "nation": "South Korea",
                 "age": "26",
                 "status": "Active",
@@ -953,6 +1316,7 @@
                     "Qualifier": 1
                 },
                 "username": "Mystic",
+                "links": {},
                 "nation": "South Korea",
                 "age": "28",
                 "status": "Active",
@@ -969,6 +1333,7 @@
                     "Qualifier": 1
                 },
                 "username": "Mlxg",
+                "links": null,
                 "nation": "China",
                 "age": "27",
                 "status": "Retired",
@@ -984,6 +1349,7 @@
                     "A-Tier": 2
                 },
                 "username": "Clearlove",
+                "links": null,
                 "nation": "China",
                 "age": "30",
                 "status": "Active",
@@ -998,6 +1364,11 @@
                     "A-Tier": 3
                 },
                 "username": "Fudge",
+                "links": {
+                    "factor": "https://www.factor.gg/player/673",
+                    "twitter": "https://twitter.com/Fudgecakey",
+                    "twitch": "https://www.twitch.tv/fudgeoce"
+                },
                 "nation": "Australia",
                 "age": "21",
                 "status": "Active",
@@ -1013,6 +1384,11 @@
                     "Misc": 1
                 },
                 "username": "FBI",
+                "links": {
+                    "factor": "https://www.factor.gg/player/2058",
+                    "twitter": "https://twitter.com/VictorHuang",
+                    "twitch": "https://www.twitch.tv/fbiadc"
+                },
                 "nation": "Australia",
                 "age": "24",
                 "status": "Active",
