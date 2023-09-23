@@ -17,7 +17,9 @@ def write_player(path: str, playerInformations):
         "team": playerInformations["team"],
         "role": playerInformations["role"],
         "careerEarnings": playerInformations["earnings"],
-        "links": playerInformations["links"]
+        "links": playerInformations["links"],
+        "mostPlayedChampion": playerInformations["mostPlayedChamp"],
+        "championKills": playerInformations["championKills"],
     }
     
     if "players" not in old_json[0]:

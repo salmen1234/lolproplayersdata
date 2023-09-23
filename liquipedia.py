@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+from factorgg import get_most_played_champion, get_champion_kills
 from settings import BASE_URL
 
 def get_player_urls(console: bool = True):
@@ -86,13 +87,23 @@ def get_player_informations(url: str, playerNumber: int, console: bool = True, n
                 
             informations["careerEarnings"] = earns_text
             
-        informations["wonTournaments"] = get_won_tournaments(url)
-        informations["username"] = username
+    informations["wonTournaments"] = get_won_tournaments(url)
+    informations["username"] = username
 
-        social_media = get_social_medias(url)
+    informations["links"] = get_social_medias(url)
 
-        informations["links"] = social_media
+    mostPlayedChamp = None
 
+    if informations["links"]:
+        if informations["links"]["factor"]:
+            factor = informations["links"]["factor"]
+
+            mostPlayedChamp = get_most_played_champion(factor)
+            championKills = get_champion_kills(factor)
+
+    informations["mostPlayedChamp"] = mostPlayedChamp
+    informations["championKills"] = championKills
+    
     if console == True:
         print(f">> Fetching {username} informations.. ({number}/{playerNumber})")
 
