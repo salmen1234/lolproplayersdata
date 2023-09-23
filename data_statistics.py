@@ -10,9 +10,11 @@ def get_average_age(console: bool = True):
     full_ages = 0
 
     for player in players:
-        age = player["age"]  
+        age = player["age"] 
+        status = player["status"] 
             
-        full_ages += int(age)
+        if status == "Active":
+            full_ages += int(age)
         
     if console == True:
         print(f"\n>> Fetching average age for {len(players)} players")
